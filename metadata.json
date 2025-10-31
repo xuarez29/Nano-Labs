@@ -1,0 +1,5 @@
+{
+  "name": "AI Clinical Report Interpreter",
+  "description": "An AI-powered web application that allows users to upload clinical lab reports, automatically extracts test results, interprets them in plain language, and visualizes trends over time with preventive alerts.",
+  "requestFramePermissions": []
+}
